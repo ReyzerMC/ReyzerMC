@@ -1,0 +1,5 @@
+- 👋 Hola, Soy ReyzerMC
+- 👀 Estoy interesado en el desarroyo de videojuegos y software
+- 🌱 Actualmente estoy aprendiendo (Por mi cuenta) distintos lenguajes de prgramacion, se bastante de Python y un poco de Java, también en usado un poco C y C#
+- 📫 Contacto reyzervt@gmail.com
+- ⚡ Fact: Si te gusta tu trabajo ya no es trabajo
